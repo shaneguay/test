@@ -3,7 +3,7 @@
 // Just modifiing some stuff
 int main(int argc, const char* argv[])
 {
-	printf("\nHello World\n");
+	printf("\nThis is some crazy stuff!\n");
 	
 	return 0;
 }
