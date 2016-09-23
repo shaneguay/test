@@ -24,7 +24,3 @@ void aftercherry()
 void master()
 [
 ]
-
-void cherry1()
-{
-}
