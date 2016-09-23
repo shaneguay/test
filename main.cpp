@@ -11,3 +11,9 @@ void func()
 {
 	// do something
 }
+
+
+void cherry1()
+{
+	
+}
