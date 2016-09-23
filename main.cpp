@@ -13,10 +13,14 @@ void func()
 }
 
 
+void cherry1()
+{
+	
+}
+
+void aftercherry()
+{
+}
 void master()
 [
 ]
-
-void cherry1()
-{
-}
