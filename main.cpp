@@ -18,6 +18,9 @@ void cherry1()
 	
 }
 
+void aftercherry()
+{
+}
 void master()
 [
 ]
