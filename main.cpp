@@ -12,7 +12,11 @@ void func()
 	// do something
 }
 
+
 void master()
 [
+]
 
+void cherry1()
+{
 }
