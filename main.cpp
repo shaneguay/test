@@ -11,3 +11,8 @@ void func()
 {
 	// do something
 }
+
+void master()
+[
+
+}
