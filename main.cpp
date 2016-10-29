@@ -15,3 +15,18 @@ void func()
 // Cleaned up code removed old crap
 
 // This is second info
+
+void cherry1()
+{
+	
+}
+
+void aftercherry()
+{
+}
+void master()
+[
+]
+
+// This is adding to master (before fix_stuff branch)
+
