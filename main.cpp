@@ -12,15 +12,4 @@ void func()
 	// do something
 }
 
-
-void cherry1()
-{
-	
-}
-
-void aftercherry()
-{
-}
-void master()
-[
-]
+// Cleaned up code removed old crap
